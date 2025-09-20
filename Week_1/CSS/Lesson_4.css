@@ -1,0 +1,28 @@
+nav {
+  background-color: red;
+  color: white;
+  height: 100px;
+}
+a {
+  text-decoration: beige;
+  color: white;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+    
+  /* padding: 20px; */
+}
+.Search {
+  width: 100px;
+  height: 40px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.btn {
+  width: 100px;
+  height: 40px;
+}
